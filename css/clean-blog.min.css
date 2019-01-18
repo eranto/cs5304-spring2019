@@ -76,18 +76,18 @@ hr.small {
         border-bottom: 2px solid transparent
     }
     .navbar-custom .navbar-brand {
-        color: rgb(17, 17, 16);
+        color: white;
         padding: 20px
     }
     .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:hover {
-        color: rgb(17, 17, 16)
+        color: white;
     }
     .navbar-custom .nav li a {
-        color: rgb(17, 17, 16);
+        color: white;
         padding: 20px
     }
     .navbar-custom .nav li a:focus, .navbar-custom .nav li a:hover {
-        color: rgb(17, 17, 16)
+        color: white;
     }
 }
 
